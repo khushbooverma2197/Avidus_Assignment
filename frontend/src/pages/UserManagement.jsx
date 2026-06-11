@@ -1,4 +1,5 @@
 import { Trash2 } from "lucide-react";
+import React from "react";
 import { useEffect, useState } from "react";
 import { apiRequest } from "../api/client.js";
 

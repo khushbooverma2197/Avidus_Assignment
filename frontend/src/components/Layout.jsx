@@ -1,4 +1,5 @@
 import { Activity, CheckSquare, LayoutDashboard, LogOut, Shield, Users } from "lucide-react";
+import React from "react";
 import { NavLink, Outlet, useNavigate } from "react-router-dom";
 import { useAuth } from "../context/AuthContext.jsx";
 
